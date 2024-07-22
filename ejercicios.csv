@@ -1,0 +1,21 @@
+nombre,descripcion,tiempoEstimado,caloriasQuemadas,tipoEjericio,puntosPorTipoEjercicio,dificultad
+press de hombro,Hacer fuerza con los hombros,70,500,"[""hombros""]",[2],1
+biceps,Hacer fuerza con los biceps,20,100,"[""brazos"",""fuerza""]","[1,2]",1
+sentadilla,Hacer fuerza con las piernas,40,200,"[""fuerza"",""piernas""]","[2,2]",2
+curl de biceps,Hacer fuerza con los biceps,25,120,"[""brazos"",""fuerza""]","[1,2]",1
+press de pecho,Ejercicio para fortalecer el pecho,60,400,"[""pecho"",""fuerza""]","[3,2]",2
+remo,Ejercicio para la espalda y los brazos,45,300,"[""espalda"",""brazos"",""fuerza""]","[2,1,2]",3
+peso muerto,Hacer fuerza con la espalda y piernas,50,350,"[""espalda"",""piernas"",""fuerza""]","[3,2,2]",3
+abdominales,Ejercicio para fortalecer el abdomen,30,150,"[""abdomen"",""resistencia""]","[2,1]",2
+zancadas,Ejercicio para piernas y glúteos,35,250,"[""piernas"",""glúteos""]","[2,3]",2
+dominadas,Hacer fuerza con los brazos y espalda,25,200,"[""brazos"",""espalda""]","[2,3]",3
+flexiones,Ejercicio para fortalecer el pecho y triceps,30,180,"[""pecho"",""triceps""]","[2,2]",2
+planchas,Ejercicio isométrico para el abdomen,20,100,"[""abdomen"",""resistencia""]","[2,1]",1
+levantamiento lateral,Ejercicio para los hombros,15,70,"[""hombros""]",[1],1
+press de pierna,Ejercicio para fortalecer las piernas,40,300,"[""piernas"",""fuerza""]","[3,2]",2
+escalada en el sitio,Ejercicio de cardio para todo el cuerpo,20,150,"[""cardio"",""piernas"",""cuerpo completo""]","[1,2,2]",2
+press frances,Ejercicio para triceps,25,130,"[""triceps"",""fuerza""]","[2,2]",1
+press militar,Ejercicio para hombros y triceps,35,200,"[""hombros"",""triceps""]","[2,2]",2
+curl de pierna,Ejercicio para los isquiotibiales,30,180,"[""piernas"",""fuerza""]","[2,2]",2
+fondos,Ejercicio para triceps y pecho,25,200,"[""triceps"",""pecho""]","[2,2]",2
+burpees,Ejercicio de cardio y fuerza,15,150,"[""cardio"",""cuerpo completo"",""fuerza"",""resistencia""]","[1,2,2,4]",3
